@@ -180,6 +180,7 @@ The reconstructed microphone mesh successfully preserved overall body shape, cab
 
 ![fig12](assets/fig12_texture.png)
 *Three texture/material variations applied in Blender*
+
 ---
 
 ## Results Summary
